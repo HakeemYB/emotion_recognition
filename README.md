@@ -23,7 +23,7 @@ pip install flask opencv-python numpy tensorflow
 1. Clone the repository:
    
 ```bash
-git clone [https://github.com//facial-expression-recognition](https://github.com/HakeemYB/emotion_recognition).git
+git clone https://github.com/HakeemYB/emotion_recognition.git
 cd emotion_recognition
 ```
 2. Download the FER2013 dataset and place it in the root folder of the project. The dataset can be downloaded from [here](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data).

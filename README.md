@@ -28,12 +28,12 @@ cd emotion_recognition
 ```
 2. Download the FER2013 dataset and place it in the root folder of the project. The dataset can be downloaded from [here](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data).
 
-3. Train the model and save it using `train_model.ipynb` notebook.
+3. Train the model and save it using `expression_detec.ipynb` notebook.
 
 4. Start the Flask application:
 
 ```bash
-python app.py
+python3 app.py
 ```
 
 5. Open your web browser and navigate to `http://localhost:8000`. You should see a simple web interface to upload an image.
